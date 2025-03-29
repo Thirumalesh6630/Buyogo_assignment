@@ -20,5 +20,5 @@ public class Address {
     @Pattern(regexp = "^[0-9]{6}$", message = "Pincode must be 6 digits")
     private String pincode;
 
-    // Getters and Setters
+    
 }
