@@ -46,5 +46,5 @@ public class TrainingCenter {
         this.createdOn = Instant.now().getEpochSecond();
     }
     
-    // Getters and Setters
+
 }
