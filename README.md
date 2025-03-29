@@ -14,4 +14,4 @@ This project is an MVP implementation for a registry of Government-funded Traini
 2. Clone the repository.
 3. Navigate to the project directory and run: `mvn clean install`
 4. Start the application: `mvn spring-boot:run`
-5. 
+
